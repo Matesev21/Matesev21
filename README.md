@@ -53,6 +53,46 @@
 <a target="_blank" href="https://www.instagram.com/mateo.sevilla1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://discord.com/channels/702329232843603990/702329233422155859"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+</br>
+<h3>I Spent My Time On:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Activity</th>
+      <th>Time Spent</th>
+      <th>Progress</th>
+      <th>Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML</td>
+      <td>2 hr 50 mins</td>
+      <td>██████████████████░░░░░░░</td>
+      <td>80%</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>2 hr 5 mins</td>
+      <td>████████████████░░░░░░░░░</td>
+      <td>70%</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>2 hr 30 mins</td>
+      <td>████████████████░░░░░░░░░</td>
+      <td>70%</td>
+    </tr>
+        <tr>
+      <td>Javascript</td>
+      <td>1 hr 50 mins</td>
+      <td>████████████████░░░░░░░░░</td>
+      <td>70%</td>
+    </tr>
+  </tbody>
+</table>
+<h3>My projects:</h3>
+<a href="https://github.com/Matesev21/GoogleSheets-Automatization">
 
   
 
